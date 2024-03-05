@@ -4,8 +4,12 @@ import android.annotation.SuppressLint
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
+import android.view.View
+import android.widget.ImageView
+import android.widget.PopupMenu
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 
@@ -44,6 +48,12 @@ class MainActivity : AppCompatActivity() {
             intent.putExtra(INTENT_PARCELABLE, it)
             startActivity(intent)
         }
+
+        val btnAbout = findViewById<ImageView>(R.id.iv_about)
+
+        btnAbout.setOnClickListener {
+            showPopupMenu(it)
+        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
@@ -60,5 +70,24 @@ class MainActivity : AppCompatActivity() {
             }
             else -> return super.onOptionsItemSelected(item)
         }
+    }
+
+    fun showPopupMenu(view: View) {
+        val popupMenu = PopupMenu(this, view)
+        popupMenu.inflate(R.menu.menu_main)
+
+        popupMenu.setOnMenuItemClickListener { item: MenuItem ->
+            when (item.itemId) {
+                R.id.iv_about -> {
+                    Log.d("MainActivity", "About selected")
+                    val intent = Intent(this, AboutActivity::class.java)
+                    startActivity(intent)
+                    true
+                }
+                else -> false
+            }
+        }
+
+        popupMenu.show()
     }
 }
