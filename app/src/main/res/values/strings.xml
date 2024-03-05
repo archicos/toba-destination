@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Toba Destination</string>
+    <string name="homepage_title">Toba Destination</string>
+
+    <string-array name="destination_names">
+        <item>Item 1</item>
+        <item>Item 2</item>
+        <item>Item 3</item>
+        <item>Item 3</item>
+        <item>Item 3</item>
+        <item>Item 3</item>
+        <item>Item 3</item>
+        <item>Item 3</item>
+        <item>Item 3</item>
+        <item>Item 3</item>
+    </string-array>
+
+    <string-array name="destination_descriptions">
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 3</item>
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 3</item>
+        <item>Description 1</item>
+        <item>Description 2</item>
+        <item>Description 3</item>
+        <item>Description 3</item>
+    </string-array>
+
+    <string-array name="destination_images">
+        <item>a</item>
+        <item>a</item>
+        <item>a</item>
+        <item>a</item>
+        <item>a</item>
+        <item>a</item>
+        <item>a</item>
+        <item>a</item>
+        <item>a</item>
+        <item>a</item>
+    </string-array>
+
+</resources>

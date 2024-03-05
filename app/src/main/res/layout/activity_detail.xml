@@ -1,0 +1,49 @@
+<!-- res/layout/activity_detail.xml -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/img_item_image"
+            android:layout_width="match_parent"
+            android:layout_height="400dp"
+            android:contentDescription="Deskripsi Gambar"
+            android:scaleType="centerCrop"
+            android:src="@drawable/a" />
+
+        <TextView
+            android:id="@+id/tv_item_name"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/img_item_image"
+            android:layout_marginTop="15dp"
+            android:text="Judul"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_item_desc"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv_item_name"
+            android:layout_marginTop="8dp"
+            android:text="Deskripsi"
+            android:textSize="16sp" />
+
+        <Button
+            android:id="@+id/action_share"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Share"
+            android:layout_below="@id/tv_item_desc"
+            android:layout_marginTop="16dp"
+            android:onClick="shareContent" />
+
+
+    </RelativeLayout>
+</ScrollView>
