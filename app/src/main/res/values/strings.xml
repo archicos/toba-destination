@@ -3,42 +3,55 @@
     <string name="homepage_title">Toba Destination</string>
 
     <string-array name="destination_names">
-        <item>Item 1</item>
-        <item>Item 2</item>
-        <item>Item 3</item>
-        <item>Item 3</item>
-        <item>Item 3</item>
-        <item>Item 3</item>
-        <item>Item 3</item>
-        <item>Item 3</item>
-        <item>Item 3</item>
-        <item>Item 3</item>
+        <item>Bukit Indah Simarjarunjung</item>
+        <item>Ajibata</item>
+        <item>Pasir Putih Parparean</item>
+        <item>Pantai Bul Bul</item>
+        <item>Kaldera</item>
+        <item>Meat</item>
+        <item>Hutaginjang</item>
+        <item>Menara Pandang Tele</item>
+        <item>Air Terjun Sipiso Piso</item>
+        <item>Paropo</item>
     </string-array>
 
     <string-array name="destination_descriptions">
-        <item>Description 1</item>
-        <item>Description 2</item>
-        <item>Description 3</item>
-        <item>Description 1</item>
-        <item>Description 2</item>
-        <item>Description 3</item>
-        <item>Description 1</item>
-        <item>Description 2</item>
-        <item>Description 3</item>
-        <item>Description 3</item>
+        <item>Bukit Simarjarunjung (Bahasa Batak: Dolok Simarjarunjung) adalah tempat wisata alam di Nagori Parik Sabungan, Kecamatan Dolok Pardamean, Kabupaten Simalungun, Sumatera Utara dengan latar Danau Toba dan Pulau Samosir. Bukit Simarjarunjung memiliki ketinggian 1.300 meter dari permukaan laut (mdpl). Sepanjang jalan Simarjarungjung sampai ke Puncak Simarjarunjung ada beberapa lokasi dengan latar pemandangan Danau Toba. Ada beberapa tempat foto buatan sepanjang jalan Simarjarunjung yaitu di Bukit Indah Simarjarungjung (BIS), Bukit Indah Simarjarunjung (BIS) Annex, Panorama Indah Sipintu Angin, Pinus Hill Simarjarunjung, Salsabila Hils dan Pesona Indah Simarjarunjung. Bukit Indah Simarjarunjung (BIS) terdapat spot foto buatan flying fox, sepeda gantung, patung kingkong dan rumah pohon, setiap spot foto pengunjung membayar Rp.5.000</item>
+        <item>Parapat adalah salah satu kelurahan yang berada di wilayah Kecamatan Girsang Sipangan Bolon, Kabupaten Simalungun, Provinsi Sumatera Utara, Indonesia. Kelurahan ini merupakan salah satu akses menuju ke Danau Toba dan Kabupaten Samosir berjarak sekitar 48 kilometer dari Kota Pematangsiantar. Parapat menjadi salah satu titik persinggahan penting dari Jalan Raya Lintas Sumatera bagian barat yang menghubungkan Kota Medan dengan Kota Padang.</item>
+        <item>Pantai ini menawarkan panorama alam yang sangat indah. Terbukti, industri perfilman juga menjadikan obyek wisata ini sebagai lokasi syuting sebuah film. Siapa sangka film Sang Prawira di kawasan pantai ini mengambil sejumlah latar belakang pantai di beberapa adegan. Objek wisata pantai ini seolah tak pernah sepi. Selalu saja ramai meski di hari biasa. Jumlah pengunjung akan naik lebih dari 2 kali lipat saat libur akhir pekan tiba dan juga saat puncak musim liburan. Meski ramai oleh wisatawan, garis pantai yang panjang dan bibir pantai yang luas cukup menguntungkan. Pasalnya, dengan kondisi topografi semacam ini, pemandangan di area pantai terlihat tak begitu penuh sesak. Anda tetap dapat menikmati view pantai plus lautnya dengan leluasa. Anda bahkan tetap bisa mendapatkan spot yang sepi layaknya pantai pribadi di sudut-sudut pantai tertentu.</item>
+        <item>Pantai Lumban Bulbul terletak di Sumatera Utara, lebih tepatnya di Desa Lumban Bulbul, Balige, Toba Samosir. Berbeda dari pantai pada umumnya, pantai air tawar ini berada di tepi sekitar Danau Toba. Di pinggiran pantainya terdapat pasir putih yang menjadi ciri khas dari tempat wisata ini. Dari pantai ini, teman-teman dapat memandang keindahan Danau Toba, serta pemandangan bukit-bukit, dan melihat hijaunya pohon-pohon yang terlihat dari kejauhan. Pantai Lumban Bulbul menjadi satu-satunya pantai yang berpasir putih di daerah Balige, yang mulai ramai dikunjungi wisatawan. Baik wisatawan yang berasal dari daerah itu sendiri, maupun yang berasal dari luar daerah.</item>
+        <item>The Kaldera Toba Nomadic Escape merupakan kawasan wisata yang diresmikan oleh Menteri Pariwisata Arief Yahya pada 4 April 2019. Berada di bawah pengelolaan Badan Pelaksana Otoritas Danau Toba (BPODT), kehadiran Kaldera Toba mempertegas status Danau Toba sebagai destinasi super prioritas Indonesia. Sebagai informasi, Pemerintah Indonesia melalui Kementerian Pariwisata dan Ekonomi Kreatif (Kemenparekraf) telah mencanangkan lima destinasi super prioritas sejak tahun 2015.Mulanya, Kemenparekraf mengadakan Rapat Koordinasi Nasional (Rakornas) Kementerian Pariwisata 1 2018, 22–23 Maret 2018. Rapat tersebut kemudian menghasilkan usulan untuk membuat nomadic tourism di tahun tersebut. Tipe wisata tersebut diyakini bisa menjadi solusi untuk memaksimalkan destinasi wisata alam Indonesia tanpa waktu yang lama.</item>
+        <item>Desa Meat merupakan sebuah desa wisata yang terletak di Kecamatan Tampahan, Kabupaten Toba Samosir, Sumatera Utara. Desa ini berada di pinggiran Danau Toba yang terkenal dengan keindahan alamnya, seperti hamparan sawah terasering hijau, serta panorama danau yang jernih. Waktu terbaik untuk berkunjung ke Desa Meat adalah pada pagi hari atau sore hari, saat cuaca tidak terlalu panas dan kamu dapat menikmati udara yang begitu sejuk. </item>
+        <item>Huta Ginjang di Kecamatan Muara, Kabupaten Tapanuli Utara, Sumatera Utara, merupakan salah satu tempat wisata untuk menikmati pemandangan Danau Toba. Tempat ini menawarkan pemandangan yang tidak kalah elok dari spot lainnya seperti Merek atau Tomok Samosir. Sejak pertama kali datang pengunjung langsung disodorkan pemandangan yang langsung memperlihatkan panorama Danau Toba nan luas. Di Huta Ginjang pengunjung juga bisa mengambil foto dengan background danau toba. Tak hanya menikmati keindahan dari satu lokasi, di sini pengunjung juga bisa menikmati pemandangan dari permainan gantole atau layang gantung.</item>
+        <item>Menara Pandang Tele merupakan bangunan yang terletak di sisi Jalan Tele, dimana jalan ini merupakan satu-satunya akses darat menuju Pulau Samosir. Bangunan ini terdiri dari empat lantai yang menawarkan pemandangan yang berbeda pada setiap lantainya. Seperti pada lantai dua, pengunjung dapat melihat panorama sekitar melalui balkon yang tersedia. emandangan terlihat lebih luas dari puncak menara. Di sini, pengunjung akan melihat panorama Danau Toba dari segala penjuru. Air Terjun Sampuran Efrata dan sebagian dataran Pulau Samosir yang berada di tengah-tengah danau juga akan terlihat. Sedangkan dari bagian sisi kiri puncak menara, pengunjung dapat melihat Gunung Pusuk Buhit yang menyimpan legenda tempat pertama asal nenek moyang Suku Batak. Pada bangunan ini juga terdapat rest area dengan dinding yang terbuat dari kaca. Fasilitas rest area berupa mushola, kamar mandi, balkon, dan sajian kuliner menu khas Batak.</item>
+        <item>Air Terjun Sipiso-piso merupakan objek wisata unggulan Kabupaten Karo, Sumatera Utara (Sumut). Objek wisata alam ini termasuk dalam jajaran air terjun tertinggi di Indonesia sehingga menarik untuk dikunjungi.Seperti namanya, air terjun ini berbentuk mirip bilah pisau. Air ini mengalir dari dalam gua dan meluncur dengan sempurna dari atas tebing.</item>
+        <item>Paropo ini mirip dengan Danau Ranu Kumbolo yang ada di Gunung Semeru. Banyak orang bilang, Ranu Kumbolo adalah salah satu danau tercantik di Indonesia. Itulah kenapa Paropo sering disebut sebagai Ranu Kumbolo-nya Sumatra Utara. Hal ini tidak lain karena Paropo juga menyuguhkan pemandangan yang cantik, tidak kalah seperti Ranu Kumbolo yang asli. Perairan Danau Toba yang bersih dan hijaunya perbukitan di sekitar kawasan ini semakin membuat Paropo mirip dengan Ranu Kumbolo.</item>
     </string-array>
 
     <string-array name="destination_images">
-        <item>a</item>
-        <item>a</item>
-        <item>a</item>
-        <item>a</item>
-        <item>a</item>
-        <item>a</item>
-        <item>a</item>
-        <item>a</item>
-        <item>a</item>
-        <item>a</item>
+        <item>bis</item>
+        <item>ajibata</item>
+        <item>parparean</item>
+        <item>bulbul</item>
+        <item>kaldera</item>
+        <item>meat</item>
+        <item>hutaginjang</item>
+        <item>tele</item>
+        <item>sipisopiso</item>
+        <item>paropo</item>
+    </string-array>
+
+    <string-array name="destination_location">
+        <item>Simarjarunjung</item>
+        <item>Parapat</item>
+        <item>Porsea</item>
+        <item>Balige</item>
+        <item>Ajibata</item>
+        <item>Tampahan</item>
+        <item>Humbang Hasundutan</item>
+        <item>Tele</item>
+        <item>Merek</item>
+        <item>Dairi</item>
     </string-array>
 
 </resources>

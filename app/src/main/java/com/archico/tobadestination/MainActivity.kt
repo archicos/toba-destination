@@ -48,12 +48,6 @@ class MainActivity : AppCompatActivity() {
             intent.putExtra(INTENT_PARCELABLE, it)
             startActivity(intent)
         }
-
-        val btnAbout = findViewById<ImageView>(R.id.iv_about)
-
-        btnAbout.setOnClickListener {
-            showPopupMenu(it)
-        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
@@ -70,24 +64,5 @@ class MainActivity : AppCompatActivity() {
             }
             else -> return super.onOptionsItemSelected(item)
         }
-    }
-
-    fun showPopupMenu(view: View) {
-        val popupMenu = PopupMenu(this, view)
-        popupMenu.inflate(R.menu.menu_main)
-
-        popupMenu.setOnMenuItemClickListener { item: MenuItem ->
-            when (item.itemId) {
-                R.id.iv_about -> {
-                    Log.d("MainActivity", "About selected")
-                    val intent = Intent(this, AboutActivity::class.java)
-                    startActivity(intent)
-                    true
-                }
-                else -> false
-            }
-        }
-
-        popupMenu.show()
     }
 }

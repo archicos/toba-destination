@@ -6,30 +6,6 @@
     android:layout_height="match_parent"
     xmlns:tools="http://schemas.android.com/tools">
 
-    <TextView
-        android:id="@+id/tv_header"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:text="@string/homepage_title"
-        android:textSize="24sp"
-        android:textStyle="bold"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        android:padding="16dp"/>
-
-    <ImageView
-        android:id="@+id/iv_about"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:src="@android:drawable/ic_menu_info_details"
-        app:layout_constraintTop_toTopOf="@+id/tv_header"
-        app:layout_constraintEnd_toEndOf="parent"
-        android:padding="16dp"
-        android:clickable="true"
-        android:focusable="true"
-        android:onClick="showPopupMenu"/>
-
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/rv_destination"
         android:layout_width="0dp"
@@ -38,7 +14,7 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/tv_header"
+        app:layout_constraintTop_toTopOf="parent"
         tools:listitem="@layout/item_destination" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

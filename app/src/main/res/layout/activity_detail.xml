@@ -5,8 +5,7 @@
 
     <RelativeLayout
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:padding="16dp">
+        android:layout_height="wrap_content">
 
         <ImageView
             android:id="@+id/img_item_image"
@@ -24,7 +23,9 @@
             android:layout_marginTop="15dp"
             android:text="Judul"
             android:textSize="24sp"
-            android:textStyle="bold" />
+            android:textStyle="bold"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"/>
 
         <TextView
             android:id="@+id/tv_item_desc"
@@ -33,7 +34,9 @@
             android:layout_below="@id/tv_item_name"
             android:layout_marginTop="8dp"
             android:text="Deskripsi"
-            android:textSize="16sp" />
+            android:textSize="16sp"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"/>
 
         <Button
             android:id="@+id/action_share"
@@ -42,7 +45,10 @@
             android:text="Share"
             android:layout_below="@id/tv_item_desc"
             android:layout_marginTop="16dp"
-            android:onClick="shareContent" />
+            android:onClick="shareContent"
+            android:layout_marginLeft="16dp"
+            android:layout_marginRight="16dp"
+            android:layout_marginBottom="16dp"/>
 
 
     </RelativeLayout>
